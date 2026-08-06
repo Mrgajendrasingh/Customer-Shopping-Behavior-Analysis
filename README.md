@@ -104,7 +104,8 @@ Interactive Filters:
 
 # 📊 Dashboard Preview
 
-Images/Dashboard.png
+![Top Countries](Images/Dashboard.png)
+
 
 
 ---
