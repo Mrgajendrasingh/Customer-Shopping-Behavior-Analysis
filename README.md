@@ -109,7 +109,7 @@ Interactive Filters:
 Example:
 
 ```
-images/dashboard.png
+Images/Dashboard.png
 ```
 
 ---
