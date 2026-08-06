@@ -107,10 +107,6 @@ Interactive Filters:
 Images/Dashboard.png
 
 
-```
-
-```
-
 ---
 
 # 📈 Key Business Insights
