@@ -104,12 +104,11 @@ Interactive Filters:
 
 # 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
+Images/Dashboard.png
 
-Example:
 
 ```
-Images/Dashboard.png
+
 ```
 
 ---
